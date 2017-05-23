@@ -3,8 +3,21 @@
 
 Palm City is a tabletop game which requires a desktop app to play properly. Randomization that is provided by the desktop app boosts the excitement during the gameplay. 
 
-### **Lore**
-#### **Background Story**
+### Creators: Ege Özmen, Enes Keleş, Barış Oralalp, Utku Muratoglu
+
+### Players: 4
+
+### Target Audience: 14+
+
+### Items to Use:
+  • 4 Character Tokens
+  • 55 Cards
+  • A Die
+  • A Map consists of 16 pieces of weather tiles, 4 trade centers and a boss token
+  • Desktop App
+  
+### Lore
+#### Background Story
   Year 2153, it was 30 years before first civil war between organics and mechanics emerged in
 history. Technology became so advanced in the 22th Century that some people began to use
 cybernetic implants to made them more stronger or more advantageous than regular human
@@ -20,7 +33,7 @@ spread all parts of the city. Explosion also changed the weather conditions in t
 of this invasion you are given the chance to choose between 4 different type of class to kill the alien boss
 and save the city.
 
-#### **Classes**
+#### Classes
 **Robot**: They began to live in Andromeda Hills where the weather is almost every time
 snowy and cold which makes them more powerful against organic life forms and they use this
 as an advantage against the monster that instill terror to Palm City.
