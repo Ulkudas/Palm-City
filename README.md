@@ -1,7 +1,7 @@
 # Palm-City
 ## *Hybrid Tabletop Game*
 
-Palm City is a tabletop game which requires a desktop app to play properly. Randomization that is provided by the desktop app boosts the excitement during the gameplay. 
+Palm City is a tabletop game which requires a desktop app to play properly. Randomization that is provided by the Desktop App boosts the excitement during the gameplay. 
 
 ---
 
@@ -62,5 +62,33 @@ the territory most challenging place both for the monsters and other classes
 Palm City , where they call Paradise City. Humans created an atmosphere device where
 they keep the weather on ideal temperature for humans only . However, city is only
 protected by walls and by having artistic architecture they had the most damage from the
+---
+
+### How to Play
+
+#### Setting up the Game
+* Open the desktop app and get a map design
+* Create the map according to given design and then roll the dice
+* The one who rolls the highest number, chooses his class and corner to start
+* Then the one with the second highest number chooses his class and corner and so on
+
+#### Turn Overview
+* Move one tile and pick a card from the deck
+* If it is a monster fight with it
+* Otherwise keep it
+* You can trade if your token is placed in a Trade Center
+
+#### Rules and Mechanics
+* The one who kills the boss wins the game.
+* The one who has the higher strength than the other/opponents defense wins the 
+battle (same with the monsters).
+* Players can trade their cards with each other at the trade centers, or can give 2 of
+their cards to deck and pick a new one.
+* If a player fights with another player and winner can loot and take two of their
+opponents cards.
+* The player who have died can keep a card for himself/herself.
+* The one who have died respawns from his/her corner.
+
+
 
 
