@@ -1,12 +1,9 @@
 # Palm-City
 ## *Hybrid Tabletop Game*
 
-Palm City is a tabletop game which requires a desktop app to play properly. Randomization that is provided by the desktop app boosts the excitement during the gameplay. 
+Palm City is a tabletop game which comes with a desktop app.
 
 ---
-
-#### Creators: *Ege Özmen*, *Enes Keleş*, *Barış Oralalp*, *Utku Muratoğlu*
-
 
 #### Players: 4
 
@@ -107,7 +104,7 @@ Map Design
 
 ![alt text](https://github.com/Ulkudas/Palm-City/blob/master/Design/Screenshot2.PNG "Map Overview")
 
-Right now game is still not complete. Any help would be appreciated. If you have any suggestions or critiques, 
+Right now the game is not complete. Any help would be appreciated. If you have any suggestions or critiques, 
 please contact me via e-mail.  
 
 
