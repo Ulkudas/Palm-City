@@ -58,10 +58,11 @@ Ladercom Slums where they can resist acid rains and mud. They are completely on 
 own, yet their uncontrollable strength and an area which they use for their advantage makes
 the territory most challenging place both for the monsters and other classes
 
-**Humans**: After get rid of from all freaks ,humans created an utopia city for their own in the
-Palm City , where they call Paradise City. Humans created an atmosphere device where
-they keep the weather on ideal temperature for humans only . However, city is only
-protected by walls and by having artistic architecture they had the most damage from the
+**Humans**: After getting rid of from all freaks, humans created an utopia city for their own in the
+Palm City, where they call Paradise City. Humans created an atmosphere device where
+they keep the weather on ideal temperature for humans only. However, city is only
+protected by walls and by having fragile architecture they had the most damage from the invasion
+
 ---
 
 ### How to Play
