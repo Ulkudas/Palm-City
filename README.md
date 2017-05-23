@@ -10,11 +10,14 @@ Palm City is a tabletop game which requires a desktop app to play properly. Rand
 #### Target Audience: 14+
 
 #### Items to Use:
-  • 4 Character Tokens
-  • 55 Cards
-  • A Die
-  • A Map consists of 16 pieces of weather tiles, 4 trade centers and a boss token
-  • Desktop App
+  * 4 Character Tokens
+  * 55 Cards
+  * A Die
+  * A Map
+    * 16 pieces of weather tiles
+    * 4 Trade Centers
+    * Boss Token
+  * Desktop App
   
 ### Lore
 #### Background Story
