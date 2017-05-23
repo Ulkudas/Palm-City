@@ -1,10 +1,10 @@
 # Palm-City
-##*Hybrid Tabletop Game*##
+## *Hybrid Tabletop Game*##
 
 Palm City is a tabletop game which requires a desktop app to play properly. Randomization provided by the desktop app gives boosts the excitement in the game. 
 
 ### **Lore**
-####**Background Story**
+#### **Background Story**
   Year 2153, it was 30 years before first civil war between organics and mechanics emerged in
 history. Technology became so advanced in the 22th Century that some people began to use
 cybernetic implants to made them more stronger or more advantageous than regular human
