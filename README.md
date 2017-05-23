@@ -3,13 +3,13 @@
 
 Palm City is a tabletop game which requires a desktop app to play properly. Randomization that is provided by the desktop app boosts the excitement during the gameplay. 
 
-### Creators: Ege Özmen, Enes Keleş, Barış Oralalp, Utku Muratoglu
+#### Creators: Ege Özmen, Enes Keleş, Barış Oralalp, Utku Muratoglu
 
-### Players: 4
+#### Players: 4
 
-### Target Audience: 14+
+#### Target Audience: 14+
 
-### Items to Use:
+#### Items to Use:
   • 4 Character Tokens
   • 55 Cards
   • A Die
