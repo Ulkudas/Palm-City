@@ -75,8 +75,7 @@ protected by walls and by having fragile architecture they had the most damage f
 
 #### Turn Overview
 * Move one tile and pick a card from the deck
-* If it is a monster fight with it
-* Otherwise keep it
+* If it is a monster fight with it, otherwise keep it
 * You can trade if your token is placed in a Trade Center
 
 #### Rules and Mechanics
@@ -89,6 +88,14 @@ their cards to deck and pick a new one.
 opponents cards.
 * The player who have died can keep a card for himself/herself.
 * The one who have died respawns from his/her corner.
+* Weather conditions on the map weakens and strenghens certain classes.
+
+| Weather       | Strong (+5 Str)| Weak(-5 Str)|
+| ------------- |:--------------:| :----------:|
+| Snowy         | Robot          | Organic     |
+| Rainy(Acid)   | Organic        | Mechanic    |
+| Foggy         | -              | All         |
+| Sunny         | Mechanic       | Organic     |
 
 
 
