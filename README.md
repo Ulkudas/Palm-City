@@ -2,6 +2,7 @@
 ## *Hybrid Tabletop Game*
 
 Palm City is a tabletop game which requires a desktop app to play properly. Randomization that is provided by the Desktop App boosts the excitement during the gameplay. 
+![alt text](https://github.com/Ulkudas/Palm-City/blob/master/Design/Screenshot.PNG "Desktop App Overview")
 
 ---
 
