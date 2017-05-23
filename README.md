@@ -13,8 +13,8 @@ Palm City is a tabletop game which requires a desktop app to play properly. Rand
   * 4 Character Tokens
   * 55 Cards
   * A Die
-  * A Map
-    * 16 pieces of weather tiles
+  * Map
+    * 16 Weather Tiles
     * 4 Trade Centers
     * Boss Token
   * Desktop App
