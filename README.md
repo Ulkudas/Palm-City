@@ -1,5 +1,5 @@
 # Palm-City
-## *Hybrid Tabletop Game*##
+## *Hybrid Tabletop Game*
 
 Palm City is a tabletop game which requires a desktop app to play properly. Randomization provided by the desktop app gives boosts the excitement in the game. 
 
@@ -20,7 +20,7 @@ spread all parts of the city. Explosion also changed the weather conditions in t
 of this invasion you are given the chance to choose between 4 different type of class to kill the alien boss
 and save the city.
 
-####**Classes**
+#### **Classes**
 **Robot**: They began to live in Andromeda Hills where the weather is almost every time
 snowy and cold which makes them more powerful against organic life forms and they use this
 as an advantage against the monster that instill terror to Palm City.
